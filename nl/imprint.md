@@ -19,4 +19,4 @@ Bestuursvoorzitter: Holger Krekel
 
 [Gemeenschapskanalen](contribute)
 
-De mailinglijstserver wordt  bijgehouden door<https://github.com/codespeaknet/sysadmin>.
+De mailinglijstserver wordt  bijgehouden door <https://github.com/codespeaknet/sysadmin>.

@@ -9,7 +9,7 @@ header: Veelgestelde vragen
 ## Wat is Delta Chat?
 
 Delta Chat is een nieuw soort gespreksapp waarmee je chat via e-mail, indien mogelijk extra versleuteld middels Autocrypt.
-**Je hoeft je nergens te registreren - je kunt gewoon je bestaande e-mailaccounh gebruiken.**
+**Je hoeft je nergens te registreren - je kunt gewoon je bestaande e-mailaccount gebruiken.**
 
 <img style="float:right; width:50%; max-width:360%; margin:1em;" src="../assets/home/delta-what-optim.png" />
 
